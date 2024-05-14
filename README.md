@@ -1,23 +1,13 @@
-# inventori-obat
+# How to run the drug-inventory program
 
-## Project setup
+## 1. For Project setup Click
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2. For run program Click
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
